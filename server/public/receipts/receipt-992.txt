@@ -1,0 +1,13 @@
+
+  Order Number: 992  Order Date: 4/11/2020
+
+  item: almond milk   price: 2.5   quantity: 1    total: 2.5 
+  item: brown rice   price: 1.5   quantity: 1    total: 1.5 
+  item: frozen blueberries   price: 3.99   quantity: 3    total: 11.97 
+  item: rolled oats   price: 1.99   quantity: 1    total: 1.99 
+
+  Order Total: 17.96
+  Payment: CC# XXXX-XXXX-3647
+  Delivery Date: 4/27/2020
+
+  Thank you for shopping with us!
